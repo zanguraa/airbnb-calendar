@@ -70,7 +70,7 @@ export default function DateRangeModal({ onClose }) {
         <DateRange
           ranges={selectionRange}
           onChange={(item) => setSelectionRange([item.selection])}
-          months={2}
+          months={window.innerWidth < 768 ? 1 : 2}
           direction="horizontal"
           minDate={today}
           moveRangeOnFirstSelection={false}
