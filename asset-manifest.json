@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/airbnb-calendar/static/css/main.56be5339.css",
-    "main.js": "/airbnb-calendar/static/js/main.e1cfad83.js",
+    "main.css": "/airbnb-calendar/static/css/main.2b2498bd.css",
+    "main.js": "/airbnb-calendar/static/js/main.182192da.js",
     "static/js/453.73095a28.chunk.js": "/airbnb-calendar/static/js/453.73095a28.chunk.js",
     "index.html": "/airbnb-calendar/index.html",
-    "main.56be5339.css.map": "/airbnb-calendar/static/css/main.56be5339.css.map",
-    "main.e1cfad83.js.map": "/airbnb-calendar/static/js/main.e1cfad83.js.map",
+    "main.2b2498bd.css.map": "/airbnb-calendar/static/css/main.2b2498bd.css.map",
+    "main.182192da.js.map": "/airbnb-calendar/static/js/main.182192da.js.map",
     "453.73095a28.chunk.js.map": "/airbnb-calendar/static/js/453.73095a28.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.56be5339.css",
-    "static/js/main.e1cfad83.js"
+    "static/css/main.2b2498bd.css",
+    "static/js/main.182192da.js"
   ]
 }
